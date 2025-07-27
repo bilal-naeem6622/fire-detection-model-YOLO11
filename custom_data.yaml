@@ -1,0 +1,5 @@
+train: /content/drive/My Drive/fire_detection/train/images
+val: /content/drive/My Drive/fire_detection/valid/images
+test: /content/drive/My Drive/fire_detection/test/images
+nc: 1
+names: ['fire']
